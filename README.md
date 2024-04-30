@@ -20,6 +20,7 @@ Ejects from Create React App setup.
 
 ## Project Structure
 
+```
 task-management-app-vertex-dm/
 ├── src/
 │ ├── components/ # React components
@@ -32,6 +33,7 @@ task-management-app-vertex-dm/
 ├── node_modules/ # Installed packages
 ├── package.json # Project metadata and dependencies
 └── README.md # Project documentation
+```
 
 ## Stack and Libraries
 
